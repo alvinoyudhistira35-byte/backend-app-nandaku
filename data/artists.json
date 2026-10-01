@@ -1,0 +1,7 @@
+[
+  { "id": "art-1", "name": "Nadia Kirana", "photo": "/uploads/artists/artist1.svg", "bio": "Penyanyi pop dengan lirik penuh warna." },
+  { "id": "art-2", "name": "Bayu Sagara", "photo": "/uploads/artists/artist2.svg", "bio": "Musisi akustik bernuansa santai." },
+  { "id": "art-3", "name": "Rex Voltage", "photo": "/uploads/artists/artist3.svg", "bio": "Produser EDM energik." },
+  { "id": "art-4", "name": "Larasati", "photo": "/uploads/artists/artist4.svg", "bio": "Balada dan lagu sendu." },
+  { "id": "art-5", "name": "Kalasakti Band", "photo": "/uploads/artists/artist5.svg", "bio": "Band rock dengan semangat membara." }
+]

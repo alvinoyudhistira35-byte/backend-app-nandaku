@@ -1,0 +1,16 @@
+{
+  "watch": ["*.js", "routes/", "middleware/", "utils/"],
+  "ext": "js,json",
+  "ignore": [
+    "data/*",
+    "data/**/*",
+    "uploads/*",
+    "uploads/**/*",
+    ".data/*",
+    ".data/**/*",
+    "**/data/**",
+    "**/.data/**",
+    "**/uploads/**",
+    "node_modules/*"
+  ]
+}

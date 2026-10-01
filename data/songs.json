@@ -1,0 +1,10 @@
+[
+  { "id": "song-1", "title": "Pelangi Sore", "artistId": "art-1", "artistName": "Nadia Kirana", "cover": "/uploads/covers/cover1.svg", "audioUrl": "/uploads/songs/sample1.mp3", "genre": "pop", "plays": 120 },
+  { "id": "song-2", "title": "Senja Kita", "artistId": "art-2", "artistName": "Bayu Sagara", "cover": "/uploads/covers/cover2.svg", "audioUrl": "/uploads/songs/sample2.mp3", "genre": "chill", "plays": 88 },
+  { "id": "song-3", "title": "Ledakan Beat", "artistId": "art-3", "artistName": "Rex Voltage", "cover": "/uploads/covers/cover3.svg", "audioUrl": "/uploads/songs/sample3.mp3", "genre": "edm", "plays": 210 },
+  { "id": "song-4", "title": "Air Mata Rindu", "artistId": "art-4", "artistName": "Larasati", "cover": "/uploads/covers/cover4.svg", "audioUrl": "/uploads/songs/sample4.mp3", "genre": "ballad", "plays": 65 },
+  { "id": "song-5", "title": "Api Perjuangan", "artistId": "art-5", "artistName": "Kalasakti Band", "cover": "/uploads/covers/cover5.svg", "audioUrl": "/uploads/songs/sample5.mp3", "genre": "rock", "plays": 175 },
+  { "id": "song-6", "title": "Malam Tenang", "artistId": "art-2", "artistName": "Bayu Sagara", "cover": "/uploads/covers/cover2.svg", "audioUrl": "/uploads/songs/sample6.mp3", "genre": "acoustic", "plays": 40 },
+  { "id": "song-7", "title": "Cahaya Bahagia", "artistId": "art-1", "artistName": "Nadia Kirana", "cover": "/uploads/covers/cover1.svg", "audioUrl": "/uploads/songs/sample7.mp3", "genre": "happy", "plays": 99 },
+  { "id": "song-8", "title": "Detak Elektrik", "artistId": "art-3", "artistName": "Rex Voltage", "cover": "/uploads/covers/cover3.svg", "audioUrl": "/uploads/songs/sample8.mp3", "genre": "dance", "plays": 150 }
+]

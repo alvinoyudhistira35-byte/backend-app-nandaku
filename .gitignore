@@ -1,0 +1,11 @@
+node_modules/
+.env
+*.log
+
+# Cadangan & file sementara yang dibuat otomatis oleh penyimpanan data
+data/*.bak
+data/*.tmp-*
+data/*.corrupt-*
+
+# Data & upload sesungguhnya saat runtime (bukan data contoh bawaan di data/ & uploads/)
+.data/
